@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "悪役にキスシーンを",
+  "base_artist": "40mP",
+  "createdAt": "2026-01-13T10:41:40.244845Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "悪役にキスシーンを - Kiss the villain",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/01_悪役にキスシーンを_-_Kiss_the_villain_40mP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "悪役にキスシーンを",
+      "artist": "40mP, 初音ミク",
+      "has_synced": true,
+      "path": "select/02_悪役にキスシーンを_40mP,_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "悪役にキスシーンを",
+      "artist": "40mP, Hatsune Miku",
+      "has_synced": true,
+      "path": "select/03_悪役にキスシーンを_40mP,_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "悪役にキスシーンを",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/04_悪役にキスシーンを_40mP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悪役にキスシーンを",
+      "artist": "40mP, 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_悪役にキスシーンを_40mP,_初音ミク.txt"
+    }
+  ]
+}
